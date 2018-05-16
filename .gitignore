@@ -1,0 +1,3 @@
+# followings are ignored
+.DS_Store
+doc/
